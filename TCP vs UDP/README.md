@@ -1,5 +1,21 @@
 ![image](https://user-images.githubusercontent.com/68372094/154382949-57135348-ae62-488f-9897-10985512d2f5.png)
 
+# TCP / IP (Transmission Control Protocol/Internet Protocol)
+  - TCP 및 IP라고 불리우는 프로토콜을 중심으로 구성되는 일련의 프로토콜들의 총칭
+
+  ※ TCP/IP 프로토콜 군 (protocol suite)
+     - 일반적으로 TCP/IP라고 하면, TCP와 IP의 두 프로토콜만을 지칭하지 않고 관련되는 프로토콜 군(Protocol suite, 규약 한벌)을 총칭함
+     - TCP/IP에는 100개가 넘는 프로토콜이 존재함
+     
+# 4. TCP/IP의 망 계층 구조 (4 계층 모델)
+- OSI 계층 모델과 비교하여 4계층 모델로 표현
+![image](https://user-images.githubusercontent.com/68372094/163954088-e8694815-398c-4e75-b944-f5b03dab8102.png)
+![image](https://user-images.githubusercontent.com/68372094/163954190-5ed80ab3-2d78-453c-b2da-3f648fc72aa2.png)
+![image](https://user-images.githubusercontent.com/68372094/163954210-b194d6ef-ba6a-4372-b1f6-5422bd3c94fc.png)
+
+
+     
+
 # TCP
 * TCP/IP 프로토콜 중 하나
 * 양쪽 종단 호스트의 프로세스 상호 간에 신뢰적인 연결지향 서비스 제공
