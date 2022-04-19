@@ -13,9 +13,7 @@
 ![image](https://user-images.githubusercontent.com/68372094/163954190-5ed80ab3-2d78-453c-b2da-3f648fc72aa2.png)
 ![image](https://user-images.githubusercontent.com/68372094/163954210-b194d6ef-ba6a-4372-b1f6-5422bd3c94fc.png)
 
-
-     
-
+***
 # TCP
 * TCP/IP 프로토콜 중 하나
 * 양쪽 종단 호스트의 프로세스 상호 간에 신뢰적인 연결지향 서비스 제공
@@ -93,8 +91,7 @@
   ※ RTT(Round Trip Time) 왕복 시간 : 1번의 TCP 세그먼트가 보내지면 1번의 확인 응답이 이루어지며 그 시간을 측정.
   ※ RTO 재전송 타임 아웃 시간 : 전송된 한 세그먼트에 대한 확인 응답을 기다려야 하는 시간.
   송신 TCP는 매번 세그먼트를 전송할 때마다 재전송 타이머(RTO)를 가동한다.
-  
-
+***
 # UDP (User Datagram Protocol)
 * TCP/IP 프로토콜 중 트랜스포트 계층의 통신 프로토콜의 하나 (TCP에 대비됨)
 * 신뢰성이 낮은 프로토콜, 완전성 보장 X
