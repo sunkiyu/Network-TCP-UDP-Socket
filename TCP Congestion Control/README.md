@@ -116,5 +116,5 @@
 - 즉, 전송되는 세그먼트 수는 1,2,4,8,16 ... 배수로 지수적으로 증가
 
 
-http://www.ktword.co.kr/
+출처 http://www.ktword.co.kr/
   
