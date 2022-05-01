@@ -1,3 +1,4 @@
+출처 http://www.ktword.co.kr/
 # TCP 오류 제어
 - 데이터 전송 중 발생되는 에러는 검출 및 보정하는 메커니즘.
 - 확인 응답(Acknowlegement)
